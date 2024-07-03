@@ -80,7 +80,9 @@ This project aims to deploy a Flask web application on a cPanel-based server env
 6. **Create Python Application in cPanel**
 
    - Navigate to cPanel and find Python Applications.
-   - Create a new application, specifying the Python version (e.g., 3.6.15 recommended) and application root (`flask_app`).
+   - Create a new application, specifying the Python version (e.g., 3.7.17 recommended) and application root (`flask_app`).
+   - ![image](https://github.com/MuhammadRaheelNaseem/Uploading-Flask-App-Into-Cpanel/assets/63813881/2a1ff095-e8f2-437b-a68a-2453c519ea5e)
+
 
 7. **Activate Virtual Environment and Install Requirements**
 
