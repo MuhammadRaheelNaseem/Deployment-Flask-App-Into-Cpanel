@@ -1,4 +1,4 @@
-# Uploading-Flask-App-Into-Cpanel
+# Deployment-Flask-App-Into-Cpanel
 
 ## Overview
 This project aims to deploy a Flask web application on a cPanel-based server environment. The Flask application serves as a simple web interface, providing a landing page (`index.html`) with basic content. The deployment process includes setting up a virtual environment, installing necessary dependencies, uploading the project to cPanel, configuring a Python application, and handling common deployment errors.
